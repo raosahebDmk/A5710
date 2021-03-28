@@ -1,2 +1,0 @@
-my:
-  gretting: Hello World abc
